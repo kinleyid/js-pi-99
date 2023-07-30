@@ -1,5 +1,5 @@
 
-var likert_labels: [
+var likert_labels = [
 	"Strongly disagree",
 	"Disagree",
 	"Slightly disagree",
